@@ -32,6 +32,24 @@ html {
    background-color: #2a56c7;
    transform: translateY(2px);
 }
-
+.wrap { 
+   width: 500px;
+   border-top-right-radius: 10px;
+   border-bottom-left-radius: 0px;
+   border-top-left-radius: 10px;
+   border-bottom-right-radius: 0px;
+   background-color:#4286f441;
+   padding: 10px 50px;  
+   font-size: 20px;
+   font-family: 'Arial', sans-serif;
+   text-align: center;
+   text-decoration: none;
+   color: white;
+   border: none;
+   cursor: pointer;
+   transition: background-color 0.3s ease;
+   box-shadow: 0 8px 16px rgba(0, 0, 0, 0.508);
+   margin: 10px; 
+}
 
   
