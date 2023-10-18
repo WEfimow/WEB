@@ -1,0 +1,35 @@
+img.background {
+   position: fixed;
+   top: 0;
+   left: 0;
+   z-index: -1;
+ }
+.element { 
+   width: 250px;
+   border-top-right-radius: 50px;
+   border-bottom-left-radius: 50px;
+   border-top-left-radius: 10px;
+   border-bottom-right-radius: 10px;
+   background-color:#4285f4;
+   padding: 10px 50px;  
+   font-size: 20px;
+   font-family: 'Arial', sans-serif;
+   text-align: center;
+   text-decoration: none;
+   color: white;
+   border: none;
+   cursor: pointer;
+   transition: background-color 0.3s ease;
+   box-shadow: 0 8px 16px rgba(0, 0, 0, 0.508);
+   margin: 10px; 
+}
+.element:hover {
+   background-color: #3367d6;
+}
+.element:active {
+   background-color: #2a56c7;
+   transform: translateY(2px);
+}
+
+
+  
