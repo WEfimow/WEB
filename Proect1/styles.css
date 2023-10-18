@@ -1,9 +1,11 @@
-img.background {
-   position: fixed;
-   top: 0;
-   left: 0;
-   z-index: -1;
- }
+html {
+   background: url(images/fon1.jpg) no-repeat center center fixed;
+   -webkit-background-size: cover;
+   -moz-background-size: cover;
+   -o-background-size: cover;
+   background-size: cover;
+}
+
 .element { 
    width: 250px;
    border-top-right-radius: 50px;
