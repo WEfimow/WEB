@@ -37,9 +37,9 @@ html {
 
 .up {
    width: 500px;
-   border-top-right-radius: 10px;
+   border-top-right-radius: 15px;
    border-bottom-left-radius: 0px;
-   border-top-left-radius: 10px;
+   border-top-left-radius: 15px;
    border-bottom-right-radius: 0px;
    background-color: #4286f441;
    padding: 10px 50px;
@@ -59,9 +59,9 @@ html {
 .ud {
    width: 500px;
    border-top-right-radius: 0px;
-   border-bottom-left-radius: 10px;
+   border-bottom-left-radius: 15px;
    border-top-left-radius: 0px;
-   border-bottom-right-radius: 10px;
+   border-bottom-right-radius: 15px;
    background-color: #4286f441;
    padding: 10px 50px;
    font-size: 20px;
@@ -83,7 +83,7 @@ html {
    border-bottom-left-radius: 0px;
    border-top-left-radius: 0px;
    border-bottom-right-radius: 0px;
-   background-color: #cdd4e041;
+   background-color: #5678b216;
    padding: 10px 50px;
    font-size: 20px;
    font-family: 'Arial', sans-serif;
