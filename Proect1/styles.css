@@ -1,5 +1,5 @@
 html {
-   background: url(images/fon.jpg) no-repeat center center fixed;
+   background: url(images/fon3.jpg) no-repeat center center fixed;
    -webkit-background-size: cover;
    -moz-background-size: cover;
    -o-background-size: cover;
@@ -41,7 +41,7 @@ html {
    border-bottom-left-radius: 0px;
    border-top-left-radius: 15px;
    border-bottom-right-radius: 0px;
-   background-color: #4286f441;
+   background-color: #4286f4ab;
    padding: 10px 50px;
    font-size: 20px;
    font-family: 'Arial', sans-serif;
@@ -62,7 +62,7 @@ html {
    border-bottom-left-radius: 15px;
    border-top-left-radius: 0px;
    border-bottom-right-radius: 15px;
-   background-color: #4286f441;
+   background-color: #4286f4ab;
    padding: 10px 50px;
    font-size: 20px;
    font-family: 'Arial', sans-serif;
@@ -83,7 +83,7 @@ html {
    border-bottom-left-radius: 0px;
    border-top-left-radius: 0px;
    border-bottom-right-radius: 0px;
-   background-color: #5678b216;
+   background-color: #5678b263;
    padding: 10px 50px;
    font-size: 20px;
    font-family: 'Arial', sans-serif;
