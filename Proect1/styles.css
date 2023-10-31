@@ -1,8 +1,5 @@
 html {
    background: url(images/fon2.jpg) no-repeat center center fixed;
-   -webkit-background-size: cover;
-   -moz-background-size: cover;
-   -o-background-size: cover;
    background-size: cover;
 }
 
@@ -36,7 +33,6 @@ html {
 }
 
 .up {
-
    border-top-right-radius: 15px;
    border-bottom-left-radius: 0px;
    border-top-left-radius: 15px;
@@ -53,12 +49,9 @@ html {
    transition: background-color 0.3s ease;
    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.508);
    margin: 10px;
-
-
 }
 
 .ud {
-
    border-top-right-radius: 0px;
    border-bottom-left-radius: 15px;
    border-top-left-radius: 0px;
@@ -79,8 +72,6 @@ html {
 }
 
 .centr {
-
- 
    border-top-right-radius: 0px;
    border-bottom-left-radius: 0px;
    border-top-left-radius: 0px;
